@@ -1,1 +1,5 @@
-# aiffel_projiect
+# Exploration
+
+1	인공지능과 가위 바위 보 하기
+2	lris의 세 가지 품종, 분류해볼 수 있겠어요?
+3	카메라 스티커앱 만들기 첫걸음
